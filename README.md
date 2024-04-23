@@ -5,13 +5,6 @@
 ## Overview
 
 This repository contains a Jupyter Notebook file (`Tuples, Sets, and Dictionaries.ipynb`) covering various operations and tasks related to tuples, sets, and dictionaries in Python.
-
-## Instructions
-
-1. Clone the repository to your local machine.
-2. Open and run the Jupyter Notebook file `Tuples, Sets, and Dictionaries.ipynb` in your preferred environment (e.g., Jupyter Notebook or Google Colab).
-3. Follow the instructions provided in the notebook to execute the code cells and learn about tuples, sets, and dictionaries in Python.
-
 ## Learning
 
 The notebook covers the following topics:
