@@ -27,8 +27,6 @@ Each section of the notebook provides examples and exercises related to tuples, 
 
 ---
 
-This README provides an overview of the Jupyter Notebook file `Tuples, Sets, and Dictionaries.ipynb` in the repository, instructions for usage, and an outline of the learning objectives covered in the notebook. Customize it further based on your specific needs and additional information about the repository. Let me know if you need further assistance!
-
 # Problem 1: Mode Calculation
 
 ## Overview
