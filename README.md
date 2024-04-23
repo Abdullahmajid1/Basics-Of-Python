@@ -1,12 +1,10 @@
 
 
 # Tuples, Sets, and Dictionaries
-
 ## Overview
 
 This repository contains a Jupyter Notebook file (`Tuples, Sets, and Dictionaries.ipynb`) covering various operations and tasks related to tuples, sets, and dictionaries in Python.
 ## Learning
-
 The notebook covers the following topics:
 
 - Understanding tuples and their immutability.
