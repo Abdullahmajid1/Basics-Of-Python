@@ -3,7 +3,7 @@
 # Tuples, Sets, lists and Dictionaries
 ## Overview
 
-This repository contains a Jupyter Notebook file (`Tuples, Sets, and Dictionaries.ipynb` and `Introduction to Lists.ipynb`) covering various operations and tasks related to tuples, sets, and dictionaries in Python.
+This repository contains a Jupyter Notebook files (`Tuples, Sets, and Dictionaries.ipynb` and `Introduction to Lists.ipynb`) covering various operations and tasks related to tuples, sets, Lists and dictionaries in Python.
 ## Learning
 The notebook covers the following topics:
 
