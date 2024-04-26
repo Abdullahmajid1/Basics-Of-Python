@@ -1,6 +1,6 @@
 
 
-# Tuples, Sets,list and Dictionaries
+# Tuples, Sets, lists and Dictionaries
 ## Overview
 
 This repository contains a Jupyter Notebook file (`Tuples, Sets, and Dictionaries.ipynb` and `Introduction to Lists.ipynb`) covering various operations and tasks related to tuples, sets, and dictionaries in Python.
@@ -24,5 +24,8 @@ The notebook covers the following topics:
 ### Dictionaries
 - Dictionaries are key-value pairs where each key maps to a value.
 - They are mutable and can be modified by adding, removing, or updating key-value pairs.
+### Lists 
+- Lists are mutable sequences and can hold any data type as an elements.
+- Elements in List can be access by index which starts from ZERO.
 
 
